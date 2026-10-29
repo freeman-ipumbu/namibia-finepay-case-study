@@ -1,4 +1,10 @@
-# Namibia FinePay — public case study
+<p align="center">
+  <img src="favicon.svg" width="96" alt="Namibia FinePay identity mark" />
+</p>
+
+<h1 align="center">Namibia FinePay — Public Case Study</h1>
+
+<p align="center"><strong>A connected traffic-fine service concept with a deliberately controlled public boundary.</strong></p>
 
 A self-contained static case study for the FinePay traffic-fine service concept. It is written for public viewing and uses only illustrative interface content. It does not take payments, query notices, or connect to any government or banking system.
 
@@ -28,3 +34,7 @@ Create a Pages project using this directory as the site source. Set the build co
 The source material was the local FinePay demonstration and the October 2026 concept presentation. This site describes the built demonstration separately from the proposed live operating model. Operational records and interface previews are illustrative. Bank, court, police, municipal, SMS, and identity integrations require authorized live endpoints, institutional agreement, credentials, and review. A payment receipt is not represented as automatic legal clearance.
 
 No private emails, credentials, internal IDs, or real personal records are included in this public site.
+
+---
+
+<p align="center"><strong>A Digital Experience by <a href="https://www.solarspin-namibia.xyz/">SolarSpin Technologies</a>.</strong></p>
